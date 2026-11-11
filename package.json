@@ -1,0 +1,20 @@
+{
+  "name": "study-circle",
+  "version": "1.0.0",
+  "description": "A college student study partner matching and collaborative circles web application with an explainable compatibility algorithm.",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx serve . -p 4173",
+    "dev": "npx serve . -p 4173"
+  },
+  "keywords": [
+    "study-partner",
+    "college",
+    "matching-algorithm",
+    "study-groups",
+    "vanilla-js",
+    "education"
+  ],
+  "author": "",
+  "license": "MIT"
+}
